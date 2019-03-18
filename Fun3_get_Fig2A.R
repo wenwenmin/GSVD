@@ -1,4 +1,4 @@
-path = "Z:/ZHANGLab_mww/project-4-gSVD/my_code_simulation_v3/Simulation-Fig1"
+path = "Z:/ZHANGLab_mww/Simulation"
 setwd(path)
 ptm <- proc.time()
 
