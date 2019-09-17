@@ -1,14 +1,16 @@
-### GSVD 
+## GSVD 
 
+### Introduction
 This package is used to solve multiole sparse group sparse matrix factorization optimization problems in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 
 More descriptions about these functions can be found in their annotation part.
 
+### R code
 Note that before running the codes, please first set the path for "Fun1_OR.R", "Fun1_OGR.R" and "Fun3_get_Fig2A.R".
-
 Please run the following R command in the Console:
 source('Fun3_get_Fig2A.R')
 
+### Citing
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
 @article{min2019,
