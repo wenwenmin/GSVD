@@ -1,4 +1,4 @@
-## GSVD 
+### GSVD 
 
 This package is used to solve multiole sparse group sparse matrix factorization optimization problems in our paper <a class="footnote-reference" href="#id2" id="id1">[1]</a>. 
 
