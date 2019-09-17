@@ -5,6 +5,10 @@ This package is used to solve multiole sparse group sparse matrix factorization 
 
 More descriptions about these functions can be found in their annotation part.
 
+<p align="center"> 
+<img src="https://github.com/wenwenmin/GSVD/edit/master/Fig1 flow chart.png">
+</p>
+
 ### R code
 Note that before running the codes, please first set the path for "Fun1_OR.R", "Fun1_OGR.R" and "Fun3_get_Fig2A.R".
 Please run the following R command in the Console:
