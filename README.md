@@ -11,7 +11,7 @@ source('Fun3_get_Fig2A.R')
 
 <p>The corresponding BiBTeX citation are given below:</p>
 <div class="highlight-none"><div class="highlight"><pre>
-@manual{min2019,
+@article{min2019,
 author       = {Wenwen Min, Juan Liu, Shihua Zhang},
 title        = {{Group-sparse SVD Models via  L1- and L0-norm Penalties and Their Applications in Biological Data}},
 organization = {CUHKSZ},
