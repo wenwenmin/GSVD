@@ -30,6 +30,6 @@ note         = {\url{https://ieeexplore.ieee.org/document/8782829}}
 <table class="docutils footnote" frame="void" id="id2" rules="none">
 <colgroup><col class="label" /><col /></colgroup>
 <tbody valign="top">
-<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td>C. Wenwen Min, Juan Liu, Shihua Zhang. Group-sparse SVD Models via  L1- and L0-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 2019 [DOI: 10.1109/TKDE.2019.2932063]. </td></tr>
+<tr><td class="label"><a class="fn-backref" href="#id2">[1]</a></td><td> Wenwen Min, Juan Liu, Shihua Zhang. Group-sparse SVD Models via  L1- and L0-norm Penalties and Their Applications in Biological Data. IEEE Transactions on Knowledge and Data Engineering, 2019 [DOI: 10.1109/TKDE.2019.2932063]. </td></tr>
 </tbody>
 </table>
